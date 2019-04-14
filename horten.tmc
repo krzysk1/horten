@@ -1,7 +1,7 @@
 <[file][][]
     <[object][][]
         <[int][Version][210]>
-        <[vec32array][ContactSpheres][ (2.355 0 -1.357  0.04) (-0.908 1.599 -0.74  0.04) (-0.908 -1.599 -0.74  0.04) ]>
+        <[vec32array][ContactSpheres][ (2.355 0 -0.953  0.444) (-0.912 1.599 -0.438  0.343) (-0.912 -1.599 -0.438  0.343) ]>
         <[string8][DisplayName][Horten H.IX]>
         <[string8][DescriptionTextEN][The Horten H.IX, RLM designation Ho 229 (often called Gotha Go 229 because of the identity of the chosen manufacturer of the aircraft) was a German prototype fighter/bomber designed by Reimar and Walter Horten and built by Gothaer Waggonfabrik late in World War II. (from Wikipedia)
 		Converted from FlightGear by krzysk(at)wp.pl . 3D model by helijah, voodoo, Cpt Goosnen, Cpt Haddock.]>
